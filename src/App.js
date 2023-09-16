@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
 
-          Please leran reactjs OK123
+          Please leran reactjs OK123e
         </a>
       </header>
     </div>
